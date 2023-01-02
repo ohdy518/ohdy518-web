@@ -612,6 +612,10 @@ video {
   padding-top: 3rem;
 }
 
+.pb-4 {
+  padding-bottom: 1rem;
+}
+
 .align-middle {
   vertical-align: middle;
 }
